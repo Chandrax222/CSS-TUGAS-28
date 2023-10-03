@@ -1,0 +1,20 @@
+* {
+    /* margin: 0 auto; */
+    background: #333333;
+    color: whitesmoke;
+}
+
+.picture {
+    display: flex;
+    place-content: center;
+    align-items: center;
+}
+
+img {
+    margin-top: 20px;
+    width: 150px;
+    height: 100px;
+}
+
+
+
